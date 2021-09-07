@@ -1,7 +1,7 @@
-##demo
+#demo
 
 - to learn about github
 
-##subheader
+#subheader
 
 Welcome
